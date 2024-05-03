@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MelodiIndo</string>
+    <string name="app_intro">Selamat datang di MelodiIndo. Silahkan buat daftar musik Indonesia terbaik anda.</string>
+    <string name="judul">Judul Lagu</string>
+    <string name="pencipta">Pencipta Lagu</string>
+    <string name="pop">Pop</string>
+    <string name="jazz">Jazz</string>
+    <string name="klasik">Klasik</string>
+    <string name="rock">Rock</string>
+    <string name="hiphop">Hip-Hop</string>
+    <string name="add_gambar">Tambahkan gambar</string>
 </resources>
